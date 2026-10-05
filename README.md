@@ -4,8 +4,6 @@
 
 > ⬇️ **Get the files:** [Latest release](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest) · [Tagged assets](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/tag/embedded_software)
 
-> 🧪 Probe release — full archives upload next if this succeeds.
-
 # 🚗 Nexteer Automotive — EPS All-in-One `(.7z)`
 
 ![Version](https://img.shields.io/badge/version-3.0-blue?style=flat-square)
@@ -222,3 +220,36 @@ SPDX-License-Identifier: MIT
 [⚡ Quick Start](#-quick-start) • [📦 Contents](#-whats-inside) • [🔧 RH850](#-rh850-firmware---4-packages) • [⚙️ TMS570](#️-tms570-firmware---9-packages) • [📚 SIP](#-sip-vector-bsw--bootloader---7-packages)
 
 </div>
+
+---
+
+## ⬇️ Downloads (latest, auto-generated)
+
+Base: `https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/<asset>`
+
+| Archive 📦 | Size 💾 | Download 🔗 |
+|---|---|---|
+| `nexteer_automotive_BSW_RH850_BMW.7z` | 572M | [⬇️ nexteer_automotive_BSW_RH850_BMW.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_BSW_RH850_BMW.7z) |
+| `nexteer_automotive_BSW_RH850_FCA.7z` | 421M | [⬇️ nexteer_automotive_BSW_RH850_FCA.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_BSW_RH850_FCA.7z) |
+| `nexteer_automotive_BSW_RH850_FORD.7z` | 510M | [⬇️ nexteer_automotive_BSW_RH850_FORD.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_BSW_RH850_FORD.7z) |
+| `nexteer_automotive_BSW_TMS570_PSA.7z` | 36M | [⬇️ nexteer_automotive_BSW_TMS570_PSA.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_BSW_TMS570_PSA.7z) |
+| `nexteer_automotive_ElectricPowerSteering_Documentation.7z` | 80M | [⬇️ nexteer_automotive_ElectricPowerSteering_Documentation.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_Documentation.7z) |
+| `nexteer_automotive_ElectricPowerSteering_RH850_BMW_FAAR_WE.7z` | 1.1G | [⬇️ nexteer_automotive_ElectricPowerSteering_RH850_BMW_FAAR_WE.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_RH850_BMW_FAAR_WE.7z) |
+| `nexteer_automotive_ElectricPowerSteering_RH850_FORD_T3T6.7z` | 1.5G | [⬇️ nexteer_automotive_ElectricPowerSteering_RH850_FORD_T3T6.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_RH850_FORD_T3T6.7z) |
+| `nexteer_automotive_ElectricPowerSteering_RH850_GM_G2KCA.7z` | 1.3G | [⬇️ nexteer_automotive_ElectricPowerSteering_RH850_GM_G2KCA.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_RH850_GM_G2KCA.7z) |
+| `nexteer_automotive_ElectricPowerSteering_RH850_GM_T1XX.7z` | 1.3G | [⬇️ nexteer_automotive_ElectricPowerSteering_RH850_GM_T1XX.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_RH850_GM_T1XX.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_BMW_UKL_MCV.7z` | 35M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_BMW_UKL_MCV.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_BMW_UKL_MCV.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_CHRYSLER_LWR.7z` | 272M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_CHRYSLER_LWR.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_CHRYSLER_LWR.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_FIAT_321.7z` | 479M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_FIAT_321.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_FIAT_321.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_GM_9BXX.7z` | 1.7M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_GM_9BXX.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_GM_9BXX.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_GM_C1XX.7z` | 524M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_GM_C1XX.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_GM_C1XX.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_HAITEC_LC.7z` | 360M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_HAITEC_LC.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_HAITEC_LC.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_PSA_BMPV.7z` | 435M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_PSA_BMPV.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_PSA_BMPV.7z) |
+| `nexteer_automotive_ElectricPowerSteering_TMS570_PSA_CMP.7z` | 570M | [⬇️ nexteer_automotive_ElectricPowerSteering_TMS570_PSA_CMP.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ElectricPowerSteering_TMS570_PSA_CMP.7z) |
+| `nexteer_automotive_FIASA_TEST_CFG.7z` | 3.7M | [⬇️ nexteer_automotive_FIASA_TEST_CFG.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_FIASA_TEST_CFG.7z) |
+| `nexteer_automotive_FlashBootloader_RH850_GM.7z` | 20M | [⬇️ nexteer_automotive_FlashBootloader_RH850_GM.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_FlashBootloader_RH850_GM.7z) |
+| `nexteer_automotive_FlashBootloader_RH850_Generic.7z` | 14M | [⬇️ nexteer_automotive_FlashBootloader_RH850_Generic.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_FlashBootloader_RH850_Generic.7z) |
+| `nexteer_automotive_FlashBootloader_TMS570_GM.7z` | 14M | [⬇️ nexteer_automotive_FlashBootloader_TMS570_GM.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_FlashBootloader_TMS570_GM.7z) |
+| `nexteer_automotive_ModelBasedDesignSimulink.7z` | 15M | [⬇️ nexteer_automotive_ModelBasedDesignSimulink.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_ModelBasedDesignSimulink.7z) |
+| `nexteer_automotive_SoftwareArchitecture_EPS_BMW.7z` | 6.0M | [⬇️ nexteer_automotive_SoftwareArchitecture_EPS_BMW.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_SoftwareArchitecture_EPS_BMW.7z) |
+| `nexteer_automotive_Volkswagen_EPS_Requirements_RIF.7z` | 9.0M | [⬇️ nexteer_automotive_Volkswagen_EPS_Requirements_RIF.7z](https://github.com/34tm1d1ck/archive_eps_all_ana/releases/latest/download/nexteer_automotive_Volkswagen_EPS_Requirements_RIF.7z) |
